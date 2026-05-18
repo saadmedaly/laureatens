@@ -1,0 +1,4 @@
+Monday 17-June-2013 12:20:53
+Annee: 2013
+Semestre: 1
+Erreur: Note d’au moins 10 : le lien ne peut pas être EC.

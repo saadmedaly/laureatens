@@ -1,0 +1,13 @@
+Il faut remplacer ses fichiers par les nouveaux
+Views
+-ins_pedagogique_elts_new.php
+url=laureat\application\views\scolarite
+
+Models
+-scolarite_modele.php
+-bulletin_modele.php
+url= laureat\application\models
+
+Controllers
+-scolarite.php
+url=laureat\application\controllers

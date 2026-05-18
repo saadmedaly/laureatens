@@ -1,0 +1,49 @@
+#rounded-corner
+{
+margin-left: 60px;
+margin-top: 20px;
+width:90%;
+text-align: center;
+border-collapse: collapse;
+border: 1px solid black;
+}
+#rounded-corner thead th.rounded-company
+{
+width:26px;
+background: #60c8f2 url('../images/left.jpg') left top no-repeat;
+}
+#rounded-corner thead th.rounded-q4
+{
+background: #60c8f2 url('../images/right.jpg') right top no-repeat;
+}
+#rounded-corner th
+{
+padding: 8px;
+font-weight: bold;
+font-size: 13px;
+color: #039;
+background: #60c8f2;
+border: 1px solid black;
+}
+#rounded-corner td
+{
+padding: 8px;
+background: #ecf8fd;
+border-top: 1px solid gray;
+color: #669;
+
+
+}
+
+#rounded-corner tfoot td.rounded-foot-left
+{
+background: #ecf8fd url('../images/botleft.jpg') left bottom no-repeat;
+}
+#rounded-corner tfoot td.rounded-foot-right
+{
+background: #ecf8fd url('../images/botright.jpg') right bottom no-repeat;
+}
+#rounded-corner tbody tr:hover td
+{
+background: #d2e7f0;
+}

@@ -1,0 +1,1020 @@
+Date :2013-06-11T13:56:21Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF191]- Étudiant : [100289] - Semestre :2013-1
+Note avant: [19.25]- Note après:[19.28].
+Date :2013-06-11T15:19:26Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN182]- Étudiant : [100339] - Semestre :2013-1
+Note avant: [12.31]- Note après:[12.88].
+Date :2013-06-11T15:21:56Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI171]- Étudiant : [100362] - Semestre :2013-1
+Note avant: [16.61]- Note après:[16.11].
+Date :2013-06-11T15:21:56Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI171]- Étudiant : [100438] - Semestre :2013-1
+Note avant: [0]- Note après:[4.21].
+Date :2013-06-11T16:48:49Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100099] - Semestre :2013-1
+Note avant: [13.5]- Note après:[13.63].
+Date :2013-06-12T11:34:05Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN272]- Étudiant : [100164] - Semestre :2013-1
+Note avant: [13.38]- Note après:[13.88].
+Date :2013-06-12T11:50:53Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN172]- Étudiant : [100271] - Semestre :2013-1
+Note avant: [13.38]- Note après:[13.88].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100123] - Semestre :2013-1
+Note avant: [14.69]- Note après:[13.92].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100255] - Semestre :2013-1
+Note avant: [15.63]- Note après:[15.09].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100263] - Semestre :2013-1
+Note avant: [13.94]- Note après:[13.70].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100271] - Semestre :2013-1
+Note avant: [15.25]- Note après:[15.38].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100289] - Semestre :2013-1
+Note avant: [17.5]- Note après:[17.26].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100297] - Semestre :2013-1
+Note avant: [12.63]- Note après:[12.14].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100305] - Semestre :2013-1
+Note avant: [13.63]- Note après:[13.12].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100313] - Semestre :2013-1
+Note avant: [15.25]- Note après:[14.36].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100321] - Semestre :2013-1
+Note avant: [13.81]- Note après:[13.51].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100339] - Semestre :2013-1
+Note avant: [8]- Note après:[08.83].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100347] - Semestre :2013-1
+Note avant: [17.25]- Note après:[16.68].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100354] - Semestre :2013-1
+Note avant: [14.44]- Note après:[14.35].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100362] - Semestre :2013-1
+Note avant: [16]- Note après:[15.31].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100370] - Semestre :2013-1
+Note avant: [15.94]- Note après:[14.17].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100396] - Semestre :2013-1
+Note avant: [12.88]- Note après:[12.46].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100404] - Semestre :2013-1
+Note avant: [15.56]- Note après:[15.41].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100412] - Semestre :2013-1
+Note avant: [10.31]- Note après:[11.11].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100420] - Semestre :2013-1
+Note avant: [15.5]- Note après:[15.19].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100438] - Semestre :2013-1
+Note avant: [2.75]- Note après:[02.69].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100446] - Semestre :2013-1
+Note avant: [11.63]- Note après:[12.06].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100461] - Semestre :2013-1
+Note avant: [14.31]- Note après:[13.75].
+Date :2013-06-13T13:03:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100479] - Semestre :2013-1
+Note avant: [13.25]- Note après:[12.61].
+Date :2013-06-13T13:10:36Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100008] - Semestre :2013-1
+Note avant: [13.12]- Note après:[12.52].
+Date :2013-06-13T13:10:36Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100024] - Semestre :2013-1
+Note avant: [11.69]- Note après:[11.61].
+Date :2013-06-13T13:10:36Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100040] - Semestre :2013-1
+Note avant: [12.93]- Note après:[12.90].
+Date :2013-06-13T13:10:36Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100057] - Semestre :2013-1
+Note avant: [12.91]- Note après:[12.79].
+Date :2013-06-13T13:10:36Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100065] - Semestre :2013-1
+Note avant: [12.69]- Note après:[12.72].
+Date :2013-06-13T13:10:36Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100073] - Semestre :2013-1
+Note avant: [11.68]- Note après:[12.23].
+Date :2013-06-13T13:10:36Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100131] - Semestre :2013-1
+Note avant: [13.34]- Note après:[12.56].
+Date :2013-06-13T13:10:36Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100156] - Semestre :2013-1
+Note avant: [13.57]- Note après:[13.49].
+Date :2013-06-13T13:10:36Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100164] - Semestre :2013-1
+Note avant: [12.38]- Note après:[13.10].
+Date :2013-06-13T13:10:36Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100172] - Semestre :2013-1
+Note avant: [13.28]- Note après:[13.23].
+Date :2013-06-13T13:10:36Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100180] - Semestre :2013-1
+Note avant: [12.77]- Note après:[12.82].
+Date :2013-06-13T13:10:36Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100230] - Semestre :2013-1
+Note avant: [12.68]- Note après:[12.78].
+Date :2013-06-13T13:19:23Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN182]- Étudiant : [100057] - Semestre :2013-1
+Note avant: [7.25]- Note après:[11.38].
+Date :2013-06-13T13:19:23Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN182]- Étudiant : [100065] - Semestre :2013-1
+Note avant: [9.25]- Note après:[10].
+Date :2013-12-14T12:31:03Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [EGEM330]- Étudiant : [100057] - Semestre :2013-3
+Note avant: [15]- Note après:[0].
+Date :2014-01-26T13:54:54Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT172]- Étudiant : [100669] - Semestre :2013-3
+Note avant: [15.38]- Note après:[12.25].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100495] - Semestre :2013-3
+Note avant: [18.33]- Note après:[18.38].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100503] - Semestre :2013-3
+Note avant: [16.83]- Note après:[16.13].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100511] - Semestre :2013-3
+Note avant: [17]- Note après:[17.13].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100529] - Semestre :2013-3
+Note avant: [5]- Note après:[4.63].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100537] - Semestre :2013-3
+Note avant: [14.17]- Note après:[14.5].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100545] - Semestre :2013-3
+Note avant: [13.5]- Note après:[13.25].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100552] - Semestre :2013-3
+Note avant: [7.33]- Note après:[16.63].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100560] - Semestre :2013-3
+Note avant: [18.33]- Note après:[18.5].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100586] - Semestre :2013-3
+Note avant: [11.5]- Note après:[11.38].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100594] - Semestre :2013-3
+Note avant: [16.83]- Note après:[16.63].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100602] - Semestre :2013-3
+Note avant: [8.17]- Note après:[8.63].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100610] - Semestre :2013-3
+Note avant: [13.67]- Note après:[13.88].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100628] - Semestre :2013-3
+Note avant: [19.5]- Note après:[19.63].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100636] - Semestre :2013-3
+Note avant: [15]- Note après:[14.75].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100644] - Semestre :2013-3
+Note avant: [11.5]- Note après:[11.63].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100651] - Semestre :2013-3
+Note avant: [17.5]- Note après:[17.38].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100669] - Semestre :2013-3
+Note avant: [15]- Note après:[15.13].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100677] - Semestre :2013-3
+Note avant: [17.5]- Note après:[17.88].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100685] - Semestre :2013-3
+Note avant: [12.17]- Note après:[11.63].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100693] - Semestre :2013-3
+Note avant: [16.33]- Note après:[16.25].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100701] - Semestre :2013-3
+Note avant: [13.67]- Note après:[13.38].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100719] - Semestre :2013-3
+Note avant: [14.5]- Note après:[14.88].
+Date :2014-01-27T11:22:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100727] - Semestre :2013-3
+Note avant: [9]- Note après:[8.5].
+Date :2014-01-27T11:34:34Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100495] - Semestre :2013-3
+Note avant: [12.67]- Note après:[12.63].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100503] - Semestre :2013-3
+Note avant: [14.67]- Note après:[14.63].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100511] - Semestre :2013-3
+Note avant: [15]- Note après:[15.38].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100529] - Semestre :2013-3
+Note avant: [10.17]- Note après:[10.38].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100537] - Semestre :2013-3
+Note avant: [12.33]- Note après:[12.5].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100545] - Semestre :2013-3
+Note avant: [10.83]- Note après:[10.63].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100552] - Semestre :2013-3
+Note avant: [11.17]- Note après:[11.63].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100560] - Semestre :2013-3
+Note avant: [17.33]- Note après:[17.13].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100578] - Semestre :2013-3
+Note avant: [14]- Note après:[14.38].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100586] - Semestre :2013-3
+Note avant: [9.67]- Note après:[9.75].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100594] - Semestre :2013-3
+Note avant: [11]- Note après:[11.38].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100602] - Semestre :2013-3
+Note avant: [12.33]- Note après:[12.5].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100610] - Semestre :2013-3
+Note avant: [12]- Note après:[11.75].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100628] - Semestre :2013-3
+Note avant: [14]- Note après:[14.13].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100636] - Semestre :2013-3
+Note avant: [13.67]- Note après:[13.38].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100651] - Semestre :2013-3
+Note avant: [14.33]- Note après:[14.75].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100669] - Semestre :2013-3
+Note avant: [13.83]- Note après:[14.38].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100677] - Semestre :2013-3
+Note avant: [15.67]- Note après:[15.38].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100685] - Semestre :2013-3
+Note avant: [10.67]- Note après:[10.5].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100693] - Semestre :2013-3
+Note avant: [13.5]- Note après:[13.63].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100701] - Semestre :2013-3
+Note avant: [14.33]- Note après:[14.5].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100719] - Semestre :2013-3
+Note avant: [14]- Note après:[13.75].
+Date :2014-01-27T11:34:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100727] - Semestre :2013-3
+Note avant: [12.67]- Note après:[12].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100495] - Semestre :2013-3
+Note avant: [9]- Note après:[8].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100503] - Semestre :2013-3
+Note avant: [13.5]- Note après:[13.25].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100511] - Semestre :2013-3
+Note avant: [10.83]- Note après:[10.25].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100529] - Semestre :2013-3
+Note avant: [8.67]- Note après:[8.25].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100537] - Semestre :2013-3
+Note avant: [11.5]- Note après:[10.63].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100545] - Semestre :2013-3
+Note avant: [7.67]- Note après:[6.25].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100552] - Semestre :2013-3
+Note avant: [14.67]- Note après:[14.38].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100560] - Semestre :2013-3
+Note avant: [10.83]- Note après:[9.63].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100578] - Semestre :2013-3
+Note avant: [12.5]- Note après:[10.5].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100586] - Semestre :2013-3
+Note avant: [12.5]- Note après:[11.63].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100594] - Semestre :2013-3
+Note avant: [11.17]- Note après:[11.13].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100602] - Semestre :2013-3
+Note avant: [10.67]- Note après:[10.5].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100610] - Semestre :2013-3
+Note avant: [13.5]- Note après:[12.38].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100628] - Semestre :2013-3
+Note avant: [11.17]- Note après:[9.63].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100636] - Semestre :2013-3
+Note avant: [11.33]- Note après:[11.25].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100644] - Semestre :2013-3
+Note avant: [11.5]- Note après:[10.63].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100651] - Semestre :2013-3
+Note avant: [15.17]- Note après:[14.38].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100669] - Semestre :2013-3
+Note avant: [14]- Note après:[13.5].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100677] - Semestre :2013-3
+Note avant: [13.17]- Note après:[13].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100685] - Semestre :2013-3
+Note avant: [10]- Note après:[8.75].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100693] - Semestre :2013-3
+Note avant: [10.5]- Note après:[9].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100701] - Semestre :2013-3
+Note avant: [13.58]- Note après:[12.81].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100719] - Semestre :2013-3
+Note avant: [9.5]- Note après:[9.25].
+Date :2014-01-27T11:40:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100727] - Semestre :2013-3
+Note avant: [10]- Note après:[9].
+Date :2014-01-27T13:42:11Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY273]- Étudiant : [100305] - Semestre :2013-3
+Note avant: [8.56]- Note après:[11.94].
+Date :2014-01-27T13:42:11Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY273]- Étudiant : [100412] - Semestre :2013-3
+Note avant: [10.59]- Note après:[7.22].
+Date :2014-01-27T13:44:42Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN271]- Étudiant : [100412] - Semestre :2013-3
+Note avant: [14.63]- Note après:[7.32].
+Date :2014-01-27T13:45:49Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT272]- Étudiant : [100412] - Semestre :2013-3
+Note avant: [14.25]- Note après:[7.13].
+Date :2014-01-27T13:47:51Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY271]- Étudiant : [100412] - Semestre :2013-3
+Note avant: [8.75]- Note après:[4.38].
+Date :2014-01-28T09:49:54Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN271]- Étudiant : [100305] - Semestre :2013-3
+Note avant: [8.25]- Note après:[14.5].
+Date :2014-01-28T09:49:54Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN271]- Étudiant : [100412] - Semestre :2013-3
+Note avant: [7.32]- Note après:[8.38].
+Date :2014-01-28T14:09:26Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY271]- Étudiant : [100362] - Semestre :2013-3
+Note avant: [9.5]- Note après:[11.5].
+Date :2014-01-29T13:22:34Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT171]- Étudiant : [100511] - Semestre :2013-3
+Note avant: [7.88]- Note après:[8.13].
+Date :2014-01-29T13:22:34Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT171]- Étudiant : [100693] - Semestre :2013-3
+Note avant: [9]- Note après:[9.25].
+Date :2014-02-02T10:15:58Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT171]- Étudiant : [100511] - Semestre :2013-3
+Note avant: [8.13]- Note après:[8.63].
+Date :2014-02-04T10:23:45Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100529] - Semestre :2013-3
+Note avant: [10.38]- Note après:[10.63].
+Date :2014-02-04T10:23:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100545] - Semestre :2013-3
+Note avant: [10.63]- Note après:[12.38].
+Date :2014-02-04T10:23:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100586] - Semestre :2013-3
+Note avant: [9.75]- Note après:[10.75].
+Date :2014-02-04T10:23:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100594] - Semestre :2013-3
+Note avant: [11.38]- Note après:[12.13].
+Date :2014-02-04T10:23:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100610] - Semestre :2013-3
+Note avant: [11.75]- Note après:[13.25].
+Date :2014-02-04T10:23:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100644] - Semestre :2013-3
+Note avant: [10]- Note après:[11].
+Date :2014-02-04T10:23:46Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN171]- Étudiant : [100685] - Semestre :2013-3
+Note avant: [10.5]- Note après:[12.5].
+Date :2014-02-04T10:47:24Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN281]- Étudiant : [100123] - Semestre :2013-3
+Note avant: [7.75]- Note après:[12.25].
+Date :2014-02-04T10:47:24Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN281]- Étudiant : [100255] - Semestre :2013-3
+Note avant: [9.88]- Note après:[14.88].
+Date :2014-02-04T10:47:24Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN281]- Étudiant : [100263] - Semestre :2013-3
+Note avant: [6.13]- Note après:[9.38].
+Date :2014-02-04T10:47:24Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN281]- Étudiant : [100297] - Semestre :2013-3
+Note avant: [8.88]- Note après:[13.13].
+Date :2014-02-04T10:47:24Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN281]- Étudiant : [100313] - Semestre :2013-3
+Note avant: [7.13]- Note après:[11.88].
+Date :2014-02-04T10:47:24Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN281]- Étudiant : [100362] - Semestre :2013-3
+Note avant: [7.88]- Note après:[13.63].
+Date :2014-02-04T10:47:24Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN281]- Étudiant : [100404] - Semestre :2013-3
+Note avant: [6.5]- Note après:[7.5].
+Date :2014-02-04T14:10:05Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY273]- Étudiant : [100404] - Semestre :2013-3
+Note avant: [13.91]- Note après:[14.16].
+Date :2014-02-04T15:07:24Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [MCOM272]- Étudiant : [100123] - Semestre :2013-3
+Note avant: [10.42]- Note après:[11.45].
+Date :2014-02-04T15:07:24Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [MCOM272]- Étudiant : [100412] - Semestre :2013-3
+Note avant: [10.06]- Note après:[11.28].
+Date :2014-02-06T09:26:02Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT272]- Étudiant : [100123] - Semestre :2013-3
+Note avant: [11.63]- Note après:[12.38].
+Date :2014-02-06T09:26:03Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT272]- Étudiant : [100412] - Semestre :2013-3
+Note avant: [7.13]- Note après:[14.63].
+Date :2014-02-06T09:42:43Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT172]- Étudiant : [100693] - Semestre :2013-3
+Note avant: [11]- Note après:[9].
+Date :2014-02-06T09:59:31Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY273]- Étudiant : [100123] - Semestre :2013-3
+Note avant: [11.31]- Note après:[12.63].
+Date :2014-02-06T09:59:32Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY273]- Étudiant : [100305] - Semestre :2013-3
+Note avant: [11.94]- Note après:[14.56].
+Date :2014-02-06T09:59:32Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY273]- Étudiant : [100321] - Semestre :2013-3
+Note avant: [11.78]- Note après:[14.41].
+Date :2014-02-06T09:59:32Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY273]- Étudiant : [100370] - Semestre :2013-3
+Note avant: [10.75]- Note après:[12.63].
+Date :2014-02-06T09:59:32Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY273]- Étudiant : [100396] - Semestre :2013-3
+Note avant: [7.25]- Note après:[12.13].
+Date :2014-02-06T09:59:32Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY273]- Étudiant : [100412] - Semestre :2013-3
+Note avant: [7.22]- Note après:[13.59].
+Date :2014-02-06T09:59:32Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY273]- Étudiant : [100479] - Semestre :2013-3
+Note avant: [10.61]- Note après:[15.86].
+Date :2014-02-06T10:15:10Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT172]- Étudiant : [100560] - Semestre :2013-3
+Note avant: [5.5]- Note après:[7.75].
+Date :2014-02-06T10:15:10Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT172]- Étudiant : [100693] - Semestre :2013-3
+Note avant: [9]- Note après:[9.75].
+Date :2014-02-06T10:23:48Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT172]- Étudiant : [100495] - Semestre :2013-3
+Note avant: [4.75]- Note après:[7.75].
+Date :2014-02-06T10:23:48Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT172]- Étudiant : [100545] - Semestre :2013-3
+Note avant: [10.13]- Note après:[10.38].
+Date :2014-02-06T10:23:48Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT172]- Étudiant : [100594] - Semestre :2013-3
+Note avant: [9.13]- Note après:[12.13].
+Date :2014-02-06T10:23:48Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT172]- Étudiant : [100644] - Semestre :2013-3
+Note avant: [10.13]- Note après:[14.38].
+Date :2014-02-06T10:23:48Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT172]- Étudiant : [100677] - Semestre :2013-3
+Note avant: [11.75]- Note après:[13.63].
+Date :2014-02-06T10:23:48Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT172]- Étudiant : [100719] - Semestre :2013-3
+Note avant: [10.63]- Note après:[13.88].
+Date :2014-02-06T10:23:48Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT172]- Étudiant : [100727] - Semestre :2013-3
+Note avant: [11]- Note après:[14.5].
+Date :2014-02-06T10:39:23Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100404] - Semestre :2013-3
+Note avant: [6.5]- Note après:[9.5].
+Date :2014-02-06T10:39:23Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100529] - Semestre :2013-3
+Note avant: [4.63]- Note après:[7.13].
+Date :2014-02-06T10:39:23Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100685] - Semestre :2013-3
+Note avant: [11.63]- Note après:[11.88].
+Date :2014-02-06T10:39:23Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN181]- Étudiant : [100727] - Semestre :2013-3
+Note avant: [8.5]- Note après:[10].
+Date :2014-02-06T10:40:44Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT271]- Étudiant : [100297] - Semestre :2013-3
+Note avant: [11.56]- Note après:[12.06].
+Date :2014-02-06T10:40:44Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT271]- Étudiant : [100412] - Semestre :2013-3
+Note avant: [11.06]- Note après:[12.56].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100495] - Semestre :2013-3
+Note avant: [8]- Note après:[11].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100511] - Semestre :2013-3
+Note avant: [10.25]- Note après:[12].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100529] - Semestre :2013-3
+Note avant: [8.25]- Note après:[10.75].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100537] - Semestre :2013-3
+Note avant: [10.63]- Note après:[11.63].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100545] - Semestre :2013-3
+Note avant: [6.25]- Note après:[11.25].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100560] - Semestre :2013-3
+Note avant: [9.63]- Note après:[12.63].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100578] - Semestre :2013-3
+Note avant: [10.5]- Note après:[16.25].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100586] - Semestre :2013-3
+Note avant: [11.63]- Note après:[14.88].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100594] - Semestre :2013-3
+Note avant: [11.13]- Note après:[11.88].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100602] - Semestre :2013-3
+Note avant: [10.5]- Note après:[14].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100628] - Semestre :2013-3
+Note avant: [9.63]- Note après:[15.63].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100636] - Semestre :2013-3
+Note avant: [11.25]- Note après:[13].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100644] - Semestre :2013-3
+Note avant: [10.63]- Note après:[15.63].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100685] - Semestre :2013-3
+Note avant: [8.75]- Note après:[14.5].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100693] - Semestre :2013-3
+Note avant: [9]- Note après:[10.25].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100719] - Semestre :2013-3
+Note avant: [9.25]- Note après:[13.5].
+Date :2014-02-06T10:49:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CCHI170]- Étudiant : [100727] - Semestre :2013-3
+Note avant: [9]- Note après:[15.5].
+Date :2014-02-06T11:03:25Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF270]- Étudiant : [100263] - Semestre :2013-3
+Note avant: [10.77]- Note après:[11.23].
+Date :2014-02-06T11:03:25Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF270]- Étudiant : [100297] - Semestre :2013-3
+Note avant: [7.44]- Note après:[8.26].
+Date :2014-02-06T11:03:25Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF270]- Étudiant : [100321] - Semestre :2013-3
+Note avant: [7.77]- Note après:[10.3].
+Date :2014-02-06T11:03:25Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF270]- Étudiant : [100362] - Semestre :2013-3
+Note avant: [11.72]- Note après:[14.72].
+Date :2014-02-06T11:03:25Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF270]- Étudiant : [100370] - Semestre :2013-3
+Note avant: [10.86]- Note après:[11.89].
+Date :2014-02-06T11:03:25Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF270]- Étudiant : [100404] - Semestre :2013-3
+Note avant: [11.73]- Note après:[12.48].
+Date :2014-02-06T11:03:25Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF270]- Étudiant : [100412] - Semestre :2013-3
+Note avant: [7.11]- Note après:[7.77].
+Date :2014-02-06T11:03:25Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF270]- Étudiant : [100420] - Semestre :2013-3
+Note avant: [9.72]- Note après:[14.59].
+Date :2014-02-06T11:09:19Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100123] - Semestre :2013-3
+Note avant: [11.56]- Note après:[15.12].
+Date :2014-02-06T11:09:19Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100297] - Semestre :2013-3
+Note avant: [11.51]- Note après:[11.8].
+Date :2014-02-06T11:09:19Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100396] - Semestre :2013-3
+Note avant: [7.6]- Note après:[12.75].
+Date :2014-02-06T11:09:19Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEO230]- Étudiant : [100412] - Semestre :2013-3
+Note avant: [8.66]- Note après:[14.37].
+Date :2014-02-06T11:20:12Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY170]- Étudiant : [100511] - Semestre :2013-3
+Note avant: [9.87]- Note après:[11.28].
+Date :2014-02-06T11:20:13Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY170]- Étudiant : [100529] - Semestre :2013-3
+Note avant: [10.51]- Note après:[11.63].
+Date :2014-02-06T11:20:13Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY170]- Étudiant : [100545] - Semestre :2013-3
+Note avant: [11.65]- Note après:[12.17].
+Date :2014-02-06T11:20:13Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY170]- Étudiant : [100552] - Semestre :2013-3
+Note avant: [11.45]- Note après:[12.57].
+Date :2014-02-06T11:20:13Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY170]- Étudiant : [100594] - Semestre :2013-3
+Note avant: [10.88]- Note après:[11.44].
+Date :2014-02-06T11:20:13Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY170]- Étudiant : [100602] - Semestre :2013-3
+Note avant: [9.68]- Note après:[10.99].
+Date :2014-02-06T11:20:13Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY170]- Étudiant : [100610] - Semestre :2013-3
+Note avant: [10.85]- Note après:[12.54].
+Date :2014-02-06T11:20:13Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY170]- Étudiant : [100651] - Semestre :2013-3
+Note avant: [11.98]- Note après:[12.73].
+Date :2014-02-06T11:20:13Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY170]- Étudiant : [100669] - Semestre :2013-3
+Note avant: [10.21]- Note après:[11.53].
+Date :2014-02-06T11:20:13Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY170]- Étudiant : [100677] - Semestre :2013-3
+Note avant: [10.77]- Note après:[11.71].
+Date :2014-02-06T11:20:13Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY170]- Étudiant : [100693] - Semestre :2013-3
+Note avant: [10.25]- Note après:[12.31].
+Date :2014-02-06T11:20:13Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY170]- Étudiant : [100727] - Semestre :2013-3
+Note avant: [10.74]- Note après:[12.15].
+Date :2014-02-06T11:24:43Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN271]- Étudiant : [100412] - Semestre :2013-3
+Note avant: [8.38]- Note après:[16.88].
+Date :2014-06-08T11:29:56Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT273A]- Étudiant : [100297] - Semestre :2014-1
+Note avant: [8.13]- Note après:[9.88].
+Date :2014-06-08T11:29:56Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT273A]- Étudiant : [100305] - Semestre :2014-1
+Note avant: [8.94]- Note après:[10.94].
+Date :2014-06-08T11:29:56Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT273A]- Étudiant : [100321] - Semestre :2014-1
+Note avant: [9.69]- Note après:[10.44].
+Date :2014-06-08T11:29:57Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT273A]- Étudiant : [100370] - Semestre :2014-1
+Note avant: [9.19]- Note après:[10.69].
+Date :2014-06-08T11:29:57Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT273A]- Étudiant : [100396] - Semestre :2014-1
+Note avant: [6.63]- Note après:[8.88].
+Date :2014-06-08T11:29:57Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT273A]- Étudiant : [100446] - Semestre :2014-1
+Note avant: [9.44]- Note après:[11.44].
+Date :2014-06-09T09:34:08Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN172]- Étudiant : [100685] - Semestre :2014-1
+Note avant: [5.75]- Note après:[11.25].
+Date :2014-06-09T09:34:08Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN172]- Étudiant : [100727] - Semestre :2014-1
+Note avant: [11.75]- Note après:[12.5].
+Date :2014-06-09T12:26:07Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF191]- Étudiant : [100545] - Semestre :2014-1
+Note avant: [8.96]- Note après:[9.24].
+Date :2014-06-09T12:26:07Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF191]- Étudiant : [100560] - Semestre :2014-1
+Note avant: [7.23]- Note après:[9.1].
+Date :2014-06-09T12:26:08Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF191]- Étudiant : [100602] - Semestre :2014-1
+Note avant: [8.54]- Note après:[8.92].
+Date :2014-06-09T12:26:08Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF191]- Étudiant : [100669] - Semestre :2014-1
+Note avant: [9.14]- Note après:[12.89].
+Date :2014-06-09T12:26:08Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF191]- Étudiant : [100701] - Semestre :2014-1
+Note avant: [9.79]- Note après:[10.35].
+Date :2014-06-09T12:26:08Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF191]- Étudiant : [100719] - Semestre :2014-1
+Note avant: [9.87]- Note après:[10.9].
+Date :2014-06-09T12:26:08Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CINF191]- Étudiant : [100727] - Semestre :2014-1
+Note avant: [8.47]- Note après:[10.81].
+Date :2014-06-09T12:30:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT173]- Étudiant : [100495] - Semestre :2014-1
+Note avant: [8.13]- Note après:[8.63].
+Date :2014-06-09T12:30:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT173]- Étudiant : [100529] - Semestre :2014-1
+Note avant: [10.75]- Note après:[12.75].
+Date :2014-06-09T12:30:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT173]- Étudiant : [100560] - Semestre :2014-1
+Note avant: [9.25]- Note après:[10.63].
+Date :2014-06-09T12:30:35Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT173]- Étudiant : [100693] - Semestre :2014-1
+Note avant: [5.88]- Note après:[10.88].
+Date :2014-06-09T12:30:36Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT173]- Étudiant : [100727] - Semestre :2014-1
+Note avant: [10.25]- Note après:[12.5].
+Date :2014-06-09T13:59:13Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CMAT274]- Étudiant : [100297] - Semestre :2014-1
+Note avant: [10.13]- Note après:[12.63].
+Date :2014-06-10T12:49:18Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [ECOM274]- Étudiant : [100396] - Semestre :2014-1
+Note avant: [11]- Note après:[13.5].
+Date :2014-06-10T13:01:19Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [MMIN230A]- Étudiant : [100123] - Semestre :2014-1
+Note avant: [9.88]- Note après:[10.25].
+Date :2014-06-10T13:01:19Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [MMIN230A]- Étudiant : [100396] - Semestre :2014-1
+Note avant: [7.49]- Note après:[9.56].
+Date :2014-06-10T13:12:37Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEM230A]- Étudiant : [100297] - Semestre :2014-1
+Note avant: [10.25]- Note après:[12.25].
+Date :2014-06-10T13:12:37Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEM230A]- Étudiant : [100321] - Semestre :2014-1
+Note avant: [9.63]- Note après:[12.13].
+Date :2014-06-10T13:12:37Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CGEM230A]- Étudiant : [100396] - Semestre :2014-1
+Note avant: [8.5]- Note après:[12].
+Date :2014-06-11T10:20:26Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN282]- Étudiant : [100263] - Semestre :2014-1
+Note avant: [7.63]- Note après:[11.38].
+Date :2014-06-11T10:23:29Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100495] - Semestre :2014-1
+Note avant: [7.37]- Note après:[8.68].
+Date :2014-06-11T10:23:29Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100529] - Semestre :2014-1
+Note avant: [10.37]- Note après:[11.31].
+Date :2014-06-11T10:23:29Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100545] - Semestre :2014-1
+Note avant: [6.57]- Note après:[9.38].
+Date :2014-06-11T10:23:29Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100560] - Semestre :2014-1
+Note avant: [7.38]- Note après:[7.94].
+Date :2014-06-11T10:23:30Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CPHY171]- Étudiant : [100594] - Semestre :2014-1
+Note avant: [9.23]- Note après:[12.69].
+Date :2014-06-11T10:26:16Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN182]- Étudiant : [100529] - Semestre :2014-1
+Note avant: [9.25]- Note après:[11.5].
+Date :2014-06-11T10:26:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN182]- Étudiant : [100545] - Semestre :2014-1
+Note avant: [9.38]- Note après:[14.63].
+Date :2014-06-11T10:26:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN182]- Étudiant : [100586] - Semestre :2014-1
+Note avant: [8.5]- Note après:[14].
+Date :2014-06-11T10:26:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN182]- Étudiant : [100644] - Semestre :2014-1
+Note avant: [9.75]- Note après:[12.75].
+Date :2014-06-11T10:26:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN182]- Étudiant : [100685] - Semestre :2014-1
+Note avant: [8.38]- Note après:[11.38].
+Date :2014-06-11T10:26:17Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [CLAN182]- Étudiant : [100727] - Semestre :2014-1
+Note avant: [8.63]- Note après:[12.13].
+Date :2014-06-12T09:19:19Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [ECOM276]- Étudiant : [100297] - Semestre :2014-1
+Note avant: [7.5]- Note après:[14].
+Date :2014-06-12T09:19:19Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [ECOM276]- Étudiant : [100313] - Semestre :2014-1
+Note avant: [9.5]- Note après:[13].
+Date :2014-06-12T09:19:19Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [ECOM276]- Étudiant : [100362] - Semestre :2014-1
+Note avant: [7.5]- Note après:[13.5].
+Date :2014-06-12T10:50:40Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [ECOM276]- Étudiant : [100297] - Semestre :2014-1
+Note avant: [14]- Note après:[10.5].
+Date :2014-06-12T10:50:40Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [ECOM276]- Étudiant : [100313] - Semestre :2014-1
+Note avant: [13]- Note après:[11].
+Date :2014-06-12T10:50:40Q GMT 
+ Matricule de l'employé: [E0011] 
+               Module : [ECOM276]- Étudiant : [100362] - Semestre :2014-1
+Note avant: [13.5]- Note après:[10.25].
